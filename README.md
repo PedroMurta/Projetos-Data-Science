@@ -6,10 +6,10 @@
 
 Formado em 2019 pela Faculdade Projeção Sobradinho-DF em Análise e Desenvolvimento de Sistemas. Atualmente fazendo pós graduação em *Ciência de Dados e Big Data pela PUC-Minas*.
 
-Analytical skills, ability to work in team environments, and attention to details.
+Analytical skills, ability to work in team environments.
 Critical thinking and problem-solving skills.
 
-**Background in:** Python, Machine Learning, SQL, MongoDB, etc.
+**Background in:** Python, JavaScript, Flask, Django, Machine Learning, SQL, MongoDB, etc.
 
 **Links:**
 * [Blog](em Desenvolvimento)
@@ -19,13 +19,6 @@ Critical thinking and problem-solving skills.
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-
 ---
 

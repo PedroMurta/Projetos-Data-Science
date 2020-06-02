@@ -2,7 +2,7 @@
 
 
 # Pedro Murta Lima
-<sub>*Futuro Cientista de Dados e Analista de Sistemas* /sub>
+<sub>*Futuro Cientista de Dados e Analista de Sistemas* </sub>
 
 Formado em 2019 pela Faculdade Projeção Sobradinho-DF em Análise e Desenvolvimento de Sistemas. Atualmente fazendo pós graduação em *Ciência de Dados e Big Data pela PUC-Minas*.
 

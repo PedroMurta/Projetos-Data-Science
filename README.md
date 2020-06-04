@@ -19,6 +19,6 @@ Critical thinking and problem-solving skills.
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb da cidade de Dublin:** https://bit.ly/36XAa83
+* **Analisando os Dados do Airbnb da cidade de Dublin:** https://bit.ly/2XyjFfs
 ---
 

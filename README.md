@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/pedro-murta/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/pedro-murta/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
 
 # Pedro Murta Lima
@@ -19,6 +19,6 @@ Critical thinking and problem-solving skills.
 
 ## Projetos:
 
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
+* **Analisando os Dados do Airbnb da cidade de Dublin:** https://bit.ly/36XAa83
 ---
 

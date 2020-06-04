@@ -4,12 +4,12 @@
 # Pedro Murta Lima
 <sub>*Futuro Cientista de Dados e Analista de Sistemas* </sub>
 
-Formado em 2019 pela Faculdade Projeção Sobradinho-DF em Análise e Desenvolvimento de Sistemas. Atualmente fazendo pós graduação em *Ciência de Dados e Big Data pela PUC-Minas*.
+Graduated in 2019 at Faculdade Projecção Sobradinho-DF in the course Analysis and Systems Development. Currently doing postgraduate studies in Data Science and Big Data at PUC-Minas.*.
 
 Analytical skills, ability to work in team environments.
 Critical thinking and problem-solving skills.
 
-**Background in:** Python, JavaScript, Flask, Django, Machine Learning, SQL, MongoDB, etc.
+**Background in:** Python, Flask, Django, Machine Learning, SQL, MongoDB, JavaScript, etc.
 
 **Links:**
 * [Blog](em Desenvolvimento)

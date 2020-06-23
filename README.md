@@ -22,5 +22,6 @@ Critical thinking and problem-solving skills.
 * **Analisando os Dados do Airbnb da cidade de Dublin:** https://bit.ly/2XyjFfs
 * **Analisando os Dados da Violência no Rio de Janeiro:** https://bit.ly/2ziAUbj
 * **Análise COVID-19:** https://bityli.com/iz89W
+* **Detecção de Fraude de Cartão de Crédito:** https://bit.ly/2YqrPqy
 ---
 

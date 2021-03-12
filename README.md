@@ -9,19 +9,3 @@ Graduated in 2019 at Faculdade Projecção Sobradinho-DF in the course Analysis 
 Analytical skills, ability to work in team environments.
 Critical thinking and problem-solving skills.
 
-**Background in:** Python, Flask, Django, Machine Learning, SQL, MongoDB, JavaScript, etc.
-
-**Links:**
-* [Blog](em Desenvolvimento)
-* [LinkedIn](https://www.linkedin.com/in/pedro-murta/)
-* [Medium](https://www.medium.com)
-
-
-## Projetos:
-
-* **Analisando os Dados do Airbnb da cidade de Dublin:** https://bit.ly/2XyjFfs
-* **Analisando os Dados da Violência no Rio de Janeiro:** https://bit.ly/2ziAUbj
-* **Análise COVID-19:** https://bityli.com/iz89W
-* **Detecção de Fraude de Cartão de Crédito:** https://bit.ly/2YqrPqy
----
-

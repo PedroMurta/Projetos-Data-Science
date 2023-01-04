@@ -4,7 +4,7 @@
 # Pedro Murta Lima
 <sub>*Systems Analyst and Data Scientist* </sub>
 
-Graduated in 2019 at Faculdade Projecção Sobradinho-DF in the course Analysis and Systems Development. Currently doing postgraduate studies in Data Science and Big Data at PUC-Minas.
+Graduated in 2019 at Faculdade Projeção Sobradinho-DF in the course Analysis and Systems Development. Postgraduated in Data Science and Big Data at PUC-Minas.
 
 Analytical skills, ability to work in team environments.
 Critical thinking and problem-solving skills.
